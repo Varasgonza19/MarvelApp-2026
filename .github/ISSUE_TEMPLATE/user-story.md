@@ -3,7 +3,7 @@ name: User Story
 about: Historia de Usuario
 title: ''
 labels: user-story
-assignees: Varasgonza19
+assignees: ''
 type: Feature
 
 ---
